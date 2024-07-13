@@ -1,4 +1,4 @@
-# Tic-Tac-Toe Multiplayer Starter
+# Tic-Tac-Toe Multiplayer
 > Starter project for a multiplayer tic-tac-toe game using Colyseus and Phaser 3.50
 
 ## Overview
