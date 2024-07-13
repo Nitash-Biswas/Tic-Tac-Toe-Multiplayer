@@ -3,11 +3,9 @@
 
 ## Overview
 
-This is a starter or template project for a basic multiplayer tic-tac-toe game using Colyseus as the multiplayer backend server and Phaser 3.50 as the frontend.
+Basic multiplayer tic-tac-toe game using Colyseus as the multiplayer backend server and Phaser 3.50 as the frontend.
 
 ## Implemented Features:
-- Backend and frontend code in same project
-- Drawing a 3x3 grid from 1D array
 - Shared game state with Colyseus Schema
 - Sync clients based on server state
 - Enforce server authority
